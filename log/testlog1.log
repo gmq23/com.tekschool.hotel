@@ -1,0 +1,28 @@
+2020-11-02 21:35:30,723 [main] INFO logger_File - Start of Execution
+2020-11-02 21:35:40,688 [main] INFO logger_File - Browser opened successfully
+2020-11-02 21:35:40,692 [main] INFO logger_File - Test Execution Started
+2020-11-02 21:35:42,429 [main] INFO logger_File - Test was passed successfully
+2020-11-02 21:35:42,429 [main] INFO logger_File - method name: loginToHotel
+2020-11-02 21:35:43,044 [main] INFO logger_File - Browser Closed
+2020-11-02 21:35:43,059 [main] INFO logger_File - End of Execution
+2020-11-04 19:07:56,928 [main] INFO logger_File - Start of Execution
+2020-11-04 19:08:12,830 [main] INFO logger_File - Browser opened successfully
+2020-11-04 19:08:12,833 [main] INFO logger_File - Test Execution Started
+2020-11-04 19:08:14,546 [main] INFO logger_File - Test was passed successfully
+2020-11-04 19:08:14,547 [main] INFO logger_File - method name: loginToHotel
+2020-11-04 19:08:15,136 [main] INFO logger_File - Browser Closed
+2020-11-04 19:08:15,144 [main] INFO logger_File - End of Execution
+2020-11-04 19:09:32,838 [main] INFO logger_File - Start of Execution
+2020-11-04 19:09:49,340 [main] INFO logger_File - Browser opened successfully
+2020-11-04 19:09:49,362 [main] INFO logger_File - Test Execution Started
+2020-11-04 19:09:51,864 [main] INFO logger_File - Test was passed successfully
+2020-11-04 19:09:51,864 [main] INFO logger_File - method name: loginToHotel
+2020-11-04 19:09:52,483 [main] INFO logger_File - Browser Closed
+2020-11-04 19:09:52,491 [main] INFO logger_File - End of Execution
+2020-11-04 20:04:58,764 [main] INFO logger_File - Start of Execution
+2020-11-04 20:05:08,152 [main] INFO logger_File - Browser opened successfully
+2020-11-04 20:05:08,152 [main] INFO logger_File - Test Execution Started
+2020-11-04 20:05:09,731 [main] INFO logger_File - Test was passed successfully
+2020-11-04 20:05:09,732 [main] INFO logger_File - method name: loginToHotel
+2020-11-04 20:05:10,324 [main] INFO logger_File - Browser Closed
+2020-11-04 20:05:10,332 [main] INFO logger_File - End of Execution
